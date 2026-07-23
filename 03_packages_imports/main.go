@@ -15,5 +15,7 @@ func main(){
 	// we always use the packageName.functionName like for printing any thing we use
 	// fmt.Println("Hello")
 	// In this "fmt" is packageName and Println is functionName.
+
+	fmt.Println("Square Root of (25): " math.Sqrt(25))
   
 }
