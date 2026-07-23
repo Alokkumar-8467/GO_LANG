@@ -18,6 +18,8 @@ func main(){
 	fmt.Println("Year Name: ", year);
 
 	// Now Float variable data type
-	var ratings fla
+	var rating float64 = 4.6769;
+
+	fmt.Println("rating: ", rating)
 
 }
