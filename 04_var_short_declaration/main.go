@@ -12,4 +12,7 @@ func main(){
 	// and this method is called inferred to string.
 	var town = "Kashi";
 
+	//
+	// Now Second short Cut method for decalrating variable
+
 }
