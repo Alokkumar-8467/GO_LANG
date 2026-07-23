@@ -17,6 +17,7 @@ func main(){
 	fmt.Println("Channel Name: ", channel);
 	fmt.Println("Year Name: ", year);
 
-	// Now Float variable data type 
+	// Now Float variable data type
+	var ratings fla
 
 }
