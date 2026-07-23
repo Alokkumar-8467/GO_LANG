@@ -10,5 +10,5 @@ import (
 )
 
 func main(){
-  
+  // we always use the packageName.functionName like for printing any thing we use
 }
