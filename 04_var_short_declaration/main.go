@@ -9,6 +9,7 @@ func main(){
 	city = "London"
 
 	// if we not assign the type of varaible then it automatically knows that it is string.
+	// and this method is called inferred to string.
 	var town = "Kashi";
 
 }
