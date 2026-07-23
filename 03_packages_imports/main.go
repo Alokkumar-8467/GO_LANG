@@ -10,7 +10,10 @@ import (
 )
 
 func main(){
-  // we always use the packageName.functionName like for printing any thing we use
-  // fmt.Println("Hello")
-  // In this "fmt" is packageName and Println is functionName.
+  
+	// we use packageName.functionName -> call a function from a package.
+	// we always use the packageName.functionName like for printing any thing we use
+	// fmt.Println("Hello")
+	// In this "fmt" is packageName and Println is functionName.
+  
 }
